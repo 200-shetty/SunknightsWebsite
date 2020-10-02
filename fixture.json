@@ -85,14 +85,14 @@
     "pk": 4,
     "fields": {
       "name": "in training",
-      "discord_server": 1,
+      "discord_server": 2,
       "discord_id": 252531631468969984
     }
   },
   {
     "model": "sunknightsapp.discordrolepoints",
     "fields": {
-      "discord_role": 4,
+      "discord_role": 5,
       "points": 1
     }
   },
